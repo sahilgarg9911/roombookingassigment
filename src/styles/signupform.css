@@ -1,0 +1,14 @@
+.signupformmain {
+    border: 5px solid black;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    margin: 30px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+button {
+    border-color: #5555ff;
+    background-color: #5555ff;
+}
